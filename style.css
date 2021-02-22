@@ -1,11 +1,12 @@
 html,
 body {
 	margin: 0;
-	color: #263238;
+	color: #b9bbbd;
 	font-size: 16px;
 	font-family: system-ui, sans-serif;
 	line-height: 1.5;
 	text-align: center;
+    background-color: #181A1B 
 }
 a{
     display: inline-block;
@@ -35,25 +36,25 @@ img,
     cursor: pointer;
 }
 a:link {
-  color: black;
+  color: #b9bbbd;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: black;
+  color: #b9bbbd;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: black;
+  color: #b9bbbd;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:active {
-  color: black;
+  color: #b9bbbd;
   background-color: transparent;
   text-decoration: none;
 }
