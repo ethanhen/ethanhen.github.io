@@ -1,8 +1,36 @@
 html,
 body {
-  margin: 0;
-  color: #263238;
-  font-size: 16px;
-  font-family: system-ui, sans-serif;
-  line-height: 1.5;
+	margin: 0;
+	color: #263238;
+	font-size: 16px;
+	font-family: system-ui, sans-serif;
+	line-height: 1.5;
+	   text-align: center;
+}
+a{
+    display: inline-block;
+}
+b{
+    display: block;
+    padding: 10px;
+}
+button{
+    padding: 5px 10px;
+}
+img,
+.image{
+    width: 30vw;
+    max-width: 300px;
+    margin: 1vh 1vw;
+}
+.image{
+    display: inline-block;
+    height: 20vw;
+    max-height: 200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.spotlight.image{
+    cursor: pointer;
 }
