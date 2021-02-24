@@ -1,5 +1,6 @@
 body {
   margin: 2em;
+  background-color: #181A1B
 }
 aside {
     background: #1f8dd6; /* same color as selected state on site menu */
@@ -46,7 +47,7 @@ button {
 html,
 body {
   margin: 0;
-  color: #263238;
+  color: #b9bbbd;
   font-size: 16px;
   font-family: system-ui, sans-serif;
   line-height: 1.5;
@@ -65,7 +66,7 @@ main {
 }
 
 a {
-  color: #0d47a1;
+  color: #b9bbbd;
   display: inline-block;
   text-decoration: none;
   border-bottom: 1px solid transparent;

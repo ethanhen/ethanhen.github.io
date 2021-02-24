@@ -9,7 +9,7 @@ table {
 
 table tr {
   padding: 0 0.25rem;
-  border-bottom: 1px solid rgba(0,0,0,0.075);
+  border-bottom: 1px solid rgba(255,255,255,0.075);
 }
 
 table tr:hover {
@@ -17,7 +17,7 @@ table tr:hover {
 }
 
 table tr.indexhead {
-  border-bottom-color: rgba(0,0,0,0.1);
+  border-bottom-color: rgba(255,255,255,0.1);
 }
 
 table tr .indexcolname {
