@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="ethanhen plex request">
+  <title>plex request</title>
+</head>
+
+<body>
+  <h2 class="content-head is-center">submit plex request</h2>
+  <aside>
+       <p>
+           Please enter your name and the show/movie you would like below</p>
+           <p>Allow up to 3 days for your show/movie to be added to Plex.
+       </p>
+   </aside>
+
+<!-- START HERE -->
+   <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+   <!-- Style The Contact Form How Ever You Prefer -->
+   <link rel="stylesheet" href="style.css">
+
+  <form class="gform pure-form pure-form-stacked" method="POST" data-email="example@notarealwebsiteoops.com"
+  action="https://script.google.com/a/distantowl.com/macros/s/AKfycbwqBoy8jESCJr3J3VgCz-PGrwTwm2Xnk-V3xMlGHw/exec">
+    <!-- change the form action to your script url -->
+
+    <div class="form-elements">
+      <fieldset class="pure-group">
+        <label for="name">Name: </label>
+        <input id="name" name="name" placeholder="Name" />
+      </fieldset>
+
+      <fieldset class="pure-group">
+        <label for="message">Show/Movie: </label>
+        <textarea id="message" name="media"
+        placeholder="Media name"></textarea>
+      </fieldset>
+
+      <fieldset class="pure-group honeypot-field">
+        <label for="honeypot">if you're reading this, you found the honeypot. this is to stop silly bots.</label>
+        <input id="honeypot" type="text" name="honeypot" value="" />
+      </fieldset>
+
+      <button class="button-success pure-button button-xlarge">
+        <i class="fa fa-paper-plane"></i>&nbsp;Send</button>
+    </div>
+
+    <div class="thankyou_message" style="display:none;">
+      <h2>Request submitted</h2>
+    </div>
+
+  </form>
+
+  <!-- Submit the Form to Google Using "AJAX" -->
+  <script data-cfasync="false" src="form-submission-handler.js"></script>
+<!-- END -->
+
+</body>
+</html>

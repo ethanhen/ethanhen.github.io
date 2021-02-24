@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /directory-listing/icons</title>
+  <link rel="stylesheet" href="/directory-listing/table.css" type="text/css">
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta http-equiv='X-UA-Compatible' content='IE=edge'> </head>
+ <body>
+  <main>
+    <!--
+      Add any static information or notices here
+    -->
+    <center><h2>PaymoneyWubby VOD Archive</h2></center>
+    <h3>There are 2 Directories. public_vods and private_vods. You are free to stream or download any public vods. Private vods may be accessed only by users authorized by the archive team.</h3>
+    <h4>To view a vod, you can either view it directly in your browser, or you can open VLC, press CTRL+N, paste the link to the vod MP4, then click play. You can scrub through the video as you would any other kind of video.</h4>
+    <h5>(Psst. All non-special vods use the file naming format):<br><code>['private|public']_vods/[month_shortname]_[year]/[day_of_month]_[stream_title]_[?stream_start_time].mp4</code></h4>
+    <br>
+    <br>
+    <h3>The archive has come under heavy load due to Wubby's ban today. Downloads may be slow.</h3>
+    <h1 class="title">Contents of <span class="js-path"></span></h1>
+  <table id="indexlist">
+   <tr class="indexhead"><th class="indexcolicon"><img src="/directory-listing/icons/blank.svg" alt="[ICO]"></th><th class="indexcolname"><a href="?C=N;O=A">Name</a></th><th class="indexcollastmod"><a href="?C=M;O=A">Last modified</a></th><th class="indexcolsize"><a href="?C=S;O=D">Size</a></th></tr>
+   <tr class="even-parentdir"><td class="indexcolicon"><a href="/directory-listing/"><img src="/directory-listing/icons/folder-home.svg" alt="[PARENTDIR]"></a></td><td class="indexcolname"><a href="/directory-listing/">Parent Directory</a></td><td class="indexcollastmod">&nbsp;</td><td class="indexcolsize">  - </td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="blank.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="blank.svg">blank.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize"> 66 </td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="script.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="script.svg">script.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">439 </td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="video.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="video.svg">video.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">516 </td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="folder.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="folder.svg">folder.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">521 </td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="package.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="package.svg">package.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">524 </td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="audio.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="audio.svg">audio.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">528 </td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="code.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="code.svg">code.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">533 </td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="doc.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="doc.svg">doc.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">534 </td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="font.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="font.svg">font.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">542 </td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="html5.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="html5.svg">html5.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">557 </td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="presentation.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="presentation.svg">presentation.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">572 </td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="css3.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="css3.svg">css3.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">629 </td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="markdown.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="markdown.svg">markdown.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">639 </td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="spreadsheet.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="spreadsheet.svg">spreadsheet.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">654 </td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="h.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="h.svg">h.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">681 </td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="iso.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="iso.svg">iso.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">720 </td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="text.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="text.svg">text.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">727 </td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="img.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="img.svg">img.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">898 </td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="info.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="info.svg">info.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">918 </td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="php.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="php.svg">php.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">925 </td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="folder-home.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="folder-home.svg">folder-home.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">949 </td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="c++.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="c++.svg">c++.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">1.0K</td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="pdf.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="pdf.svg">pdf.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">1.0K</td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="c.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="c.svg">c.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">1.1K</td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="archive.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="archive.svg">archive.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">1.1K</td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="vector.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="vector.svg">vector.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">1.1K</td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="js.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="js.svg">js.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">1.2K</td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="py.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="py.svg">py.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">1.2K</td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="bin.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="bin.svg">bin.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">1.5K</td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="unknown.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="unknown.svg">unknown.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">1.7K</td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="java.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="java.svg">java.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">2.2K</td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="sql.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="sql.svg">sql.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">2.5K</td></tr>
+   <tr class="odd-img"><td class="indexcolicon"><a href="rb.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="rb.svg">rb.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">2.5K</td></tr>
+   <tr class="even-img"><td class="indexcolicon"><a href="dll.svg"><img src="/directory-listing/icons/vector.svg" alt="[IMG]"></a></td><td class="indexcolname"><a href="dll.svg">dll.svg</a></td><td class="indexcollastmod">2019-10-18 20:46  </td><td class="indexcolsize">2.7K</td></tr>
+</table>
+  </main>
+
+  <footer>
+    <!--
+      Add any other listing related copyright content here
+    -->
+
+    <a href="https://irltoolkit.com"><em>Hosting provided by IRLToolkit for the Wubby community. Thanks to our archive volunteers who maintain the archive.</em></a>
+  </footer>
+  
+  <script>
+    function joinUntil(array, index, separator) {
+      var result = [];
+
+      for (var i = 0; i <= index; i++) {
+        result.push(array[i]);
+      }
+
+      return result.join(separator);
+    }
+
+    // Make all the icon links unfocusable with tab
+    var iconLinks = document.querySelectorAll('.indexcolicon a');
+    Array.prototype.forEach.call(iconLinks, function(link) {
+      link.setAttribute('tabindex', '-1');
+    });
+
+    var path = document.querySelector('.js-path');
+    var pathParts = location.pathname.split('/');
+
+    // Removing empty strings
+    for (var i = 0; i < pathParts.length;) {
+      if (pathParts[i]) {
+        i++;
+      } else {
+        pathParts.splice(i, 1);
+      }
+    }
+
+    var pathContents = ['<a href="/">/</a>'];
+    Array.prototype.forEach.call(pathParts, function(part, index) {
+      pathContents.push('<a href="/' + joinUntil(pathParts, index, '/') + '">' + decodeURI(part) + '</a>');
+    });
+
+    path.innerHTML = pathContents.join('&rsaquo;');
+  </script>
+</body></html>

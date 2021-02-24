@@ -1,60 +1,101 @@
-html,
 body {
-	margin: 0;
-	color: #b9bbbd;
-	font-size: 16px;
-	font-family: system-ui, sans-serif;
-	line-height: 1.5;
-	text-align: center;
-    background-color: #181A1B 
+  margin: 2em;
 }
-a{
-    display: inline-block;
+aside {
+    background: #1f8dd6; /* same color as selected state on site menu */
+    padding: 0.3em 1em;
+    border-radius: 3px;
+    color: #fff;
+    margin-bottom: 2em;
 }
-b{
-    display: block;
-    padding: 10px;
+textarea {
+  width: 100%;
 }
-button{
-    padding: 5px 10px;
+.content-head {
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 2em 0 1em;
 }
-img,
-.image{
-    width: 30vw;
-    max-width: 300px;
-    margin: 1vh 1vw;
+.is-center {
+  text-align: center;
 }
-.image{
-    display: inline-block;
-    height: 20vw;
-    max-height: 200px;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.button-success {
+  color: white;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  background: rgb(28, 184, 65); /* this is a green */
 }
-.spotlight.image{
-    cursor: pointer;
+.button-xlarge {
+  font-size: 125%;
 }
-a:link {
-  color: #b9bbbd;
-  background-color: transparent;
-  text-decoration: none;
+button {
+  float: right;
+}
+#name, #email {
+  width: 50%;
+}
+.honeypot-field {
+  display: none;
 }
 
-a:visited {
-  color: #b9bbbd;
-  background-color: transparent;
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  color: #263238;
+  font-size: 16px;
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  min-height: 100vh;
+  border-top: 0.5rem solid #607d8b;
+  border-bottom: 0.5rem solid #607d8b;
+}
+
+main {
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  max-width: 56rem;
+}
+
+a {
+  color: #0d47a1;
+  display: inline-block;
   text-decoration: none;
+  border-bottom: 1px solid transparent;
 }
 
 a:hover {
-  color: #b9bbbd;
-  background-color: transparent;
+  border-bottom: 1px solid currentColor;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin: 2rem 0;
+}
+
+.title .js-path a {
+  padding: 0 0.25rem 0;
   text-decoration: none;
 }
 
-a:active {
-  color: #b9bbbd;
-  background-color: transparent;
-  text-decoration: none;
+.title .js-path a:hover {
+  opacity: 1;
+}
+
+footer {
+  padding: 2rem 1rem;
+  text-align: center;
+  font-size: 0.875rem;
+}
+
+footer a {
+  color: #546e7a;
 }
