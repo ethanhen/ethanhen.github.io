@@ -24,7 +24,7 @@ chmod +x zathura-color.sh
 
 #make sure packages are installed and updated
 apt-get -y update && apt-get upgrade
-apt-get -y install vim zathura python-is-python3 python3-pip youtube-dl ffmpeg gallery-dl neofetch net-tools
+apt-get -y install vim zathura python-is-python3 python3-pip youtube-dl ffmpeg neofetch net-tools
 
 pip3 install pywal
 
