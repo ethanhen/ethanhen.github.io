@@ -102,5 +102,5 @@ footer a {
 }
 
 .filter-white-grey {
-  filter: invert(100%) sepia(6%) saturate(360%) hue-rotate(32deg) brightness(113%) contrast(78%);
+  filter: brightness(0) saturate(100%) invert(100%) sepia(2%) saturate(524%) hue-rotate(325deg) brightness(109%) contrast(78%);
 }
