@@ -1,4 +1,6 @@
-# ethanhen.github.io
+# not using this anymore btw
+
+## ethanhen.github.io
 this is just my website for hosting various things.
 
 dont expect too much
